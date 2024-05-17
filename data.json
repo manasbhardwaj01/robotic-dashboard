@@ -1,0 +1,11 @@
+{
+    "battery": 100,
+    "status": "active",
+    "logs": [
+      "Started task A",
+      "Completed task B",
+      "Charging",
+      "not optimized"
+    ]
+  }
+  
